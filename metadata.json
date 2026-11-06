@@ -1,0 +1,6 @@
+{
+  "name": "TRẠNG NGUYÊN AI 2.0 – LỚP HỌC KIẾN TẠO",
+  "description": "Ứng dụng trí tuệ nhân tạo hỗ trợ thiết kế học liệu, tổ chức trò chơi, bài tập tương tác và quản lý tiến độ học tập môn Toán, Tiếng Việt cho học sinh lớp 2 - Bộ sách Kết nối tri thức với cuộc sống. Tác giả: Danh Thanh - Trường TH-THCS Vĩnh Điều, An Giang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
